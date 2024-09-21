@@ -3,5 +3,5 @@ pydantic[email]
 pydantic_settings
 sqlalchemy
 dotenvx
-asyncpg
+psycopg2
 uvicorn
